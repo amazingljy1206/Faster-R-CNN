@@ -9,7 +9,7 @@
 
 https://download.pytorch.org/models/resnet50-0676ba61.pth （请重命名为“resnet50.pth”）
 
-https://download.pytorch.org/models/fasterrcnn_resnet50_fpn_coco-258fb6c6.pth（请重命名为“fasterrcnn_resnet50_fpn_coco.pth”）
+https://download.pytorch.org/models/fasterrcnn_resnet50_fpn_coco-258fb6c6.pth （请重命名为“fasterrcnn_resnet50_fpn_coco.pth”）
 
 训练只需执行 `python train.py`
 
