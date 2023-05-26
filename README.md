@@ -1,6 +1,15 @@
-## Faster R-CNN课程作业
+## 课程作业——Faster R-CNN
+
+### 数据集
+
+本次作业使用Pascal VOC 2012数据集，下载链接为：
+
+http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
+
+数据集下载后存放至根目录下即可。
 
 ### 环境依赖
+
 执行 `pip install -r requirements.txt`
 
 ### 训练模型
